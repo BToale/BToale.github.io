@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Test post 2"
-author:
-- B
+date: 2024-03-20
+categories: test
 ---
 
 ### Testing date
