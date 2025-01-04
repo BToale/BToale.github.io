@@ -1,3 +1,12 @@
+# theme
 theme: minima
 minima:
   skin: dark
+
+title: BToale projects
+description: Project website
+github_username:  adamkarvonen
+
+header_pages:
+  - about.md
+
